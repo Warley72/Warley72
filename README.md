@@ -4,8 +4,7 @@
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
   <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/carlos-warley-106058229/"><i>Carlos Warley</i></a> e eu estudo  tecnologias voltadas ao front end na <a href="https://www.rocketseat.com.br"><i>Rocketseat</i></a>. 
   <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado aqui no GitHub.
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/carlos-warley-106058229/"><i>Carlos Warley</a> </h1>
-    
+  
 </div>
 
 <div align="center">
